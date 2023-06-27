@@ -1,4 +1,4 @@
-# neurite_analysis
+# auto_segmentation neurite_analysis
 This pipeline will need imageJ/Fiji, vaa3d programs install locally and nGauge program is a jupter notebook can run on colab
 1. install vaa3d-x.exe [Vaa3D-x.1.1.2_Windows_64bit]
 2. install fiji/imageJ.
